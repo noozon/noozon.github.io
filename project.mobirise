@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Noozon.com",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1024,7 +1024,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "A really neat way to own a car\n",
+        "meta_descr": "Empowering Africa SMEs to source goods anywhere in the world.\n\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
