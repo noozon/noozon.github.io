@@ -1843,43 +1843,43 @@ body {
 .cid-rh72PSsHFj .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rhsHfJW1kL {
+.cid-rhsHTSzyN0 {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #e7e7e7;
 }
 @media (max-width: 767px) {
-  .cid-rhsHfJW1kL .content {
+  .cid-rhsHTSzyN0 .content {
     text-align: center;
   }
-  .cid-rhsHfJW1kL .content > div:not(:last-child) {
+  .cid-rhsHTSzyN0 .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rhsHfJW1kL .media-wrap {
+  .cid-rhsHTSzyN0 .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rhsHfJW1kL .media-wrap .mbr-iconfont-logo {
+.cid-rhsHTSzyN0 .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rhsHfJW1kL .media-wrap img {
+.cid-rhsHTSzyN0 .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rhsHfJW1kL .footer-lower .copyright {
+  .cid-rhsHTSzyN0 .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rhsHfJW1kL .footer-lower hr {
+.cid-rhsHTSzyN0 .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rhsHfJW1kL .footer-lower .social-list {
+.cid-rhsHTSzyN0 .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1889,36 +1889,36 @@ body {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rhsHfJW1kL .footer-lower .social-list .mbr-iconfont-social {
+.cid-rhsHTSzyN0 .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rhsHfJW1kL .footer-lower .social-list .soc-item {
+.cid-rhsHTSzyN0 .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rhsHfJW1kL .footer-lower .social-list a {
+.cid-rhsHTSzyN0 .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rhsHfJW1kL .footer-lower .social-list a:hover {
+.cid-rhsHTSzyN0 .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rhsHfJW1kL .footer-lower .social-list {
+  .cid-rhsHTSzyN0 .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rhsHfJW1kL P {
+.cid-rhsHTSzyN0 P {
   text-align: left;
   color: #232323;
 }
-.cid-rhsHfJW1kL H5 {
+.cid-rhsHTSzyN0 H5 {
   color: #232323;
 }
-.cid-rhsHfJW1kL B {
+.cid-rhsHTSzyN0 B {
   color: #494949;
 }
 .cid-rh72PSsHFj .navbar {
