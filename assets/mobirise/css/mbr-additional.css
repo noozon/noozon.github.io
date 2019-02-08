@@ -1446,10 +1446,10 @@ body {
 }
 .cid-rhbCJXlayN P {
   text-align: left;
-  color: #fe9301;
+  color: #000000;
 }
 .cid-rhbCJXlayN B {
-  color: #fe9301;
+  color: #000000;
 }
 .cid-rh72PSsHFj .navbar {
   background: #ffffff;
@@ -1913,13 +1913,18 @@ body {
 }
 .cid-rhsHTSzyN0 P {
   text-align: left;
-  color: #232323;
+  color: #000000;
 }
 .cid-rhsHTSzyN0 H5 {
   color: #232323;
+  text-align: left;
 }
 .cid-rhsHTSzyN0 B {
-  color: #494949;
+  color: #232323;
+}
+.cid-rhsHTSzyN0 .copyright > p {
+  color: #000000;
+  text-align: left;
 }
 .cid-rh72PSsHFj .navbar {
   background: #ffffff;
